@@ -49,5 +49,6 @@ img {
 
 .button:disabled {
   color: rgba(0, 0, 0, 0.5);
-  background-color: rgba(161, 161, 161, 0.5);
+  background-color: rgba(102, 97, 97, 0.5);
+  cursor: not-allowed;
 }
